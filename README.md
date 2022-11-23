@@ -6,12 +6,6 @@ Unity Version:  2022.2.0
 
 ## Topics
 
-01a. Basics and Scripting
-
-01b. Saving State
-
-02a. Editor Scripting
-
 02b. Physics and colliders
 
 03a. Building a level
